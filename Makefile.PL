@@ -3,6 +3,7 @@ name 'Encode-Base58-BigInt';
 all_from 'lib/Encode/Base58/BigInt.pm';
 
 requires 'Exporter::Lite';
+requires 'Math::BigInt';
 
 build_requires 'Test::Most';
 
