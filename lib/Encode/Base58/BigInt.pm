@@ -89,7 +89,7 @@ cho45 E<lt>cho45@lowreal.netE<gt>
 
 =head1 SEE ALSO
 
-Encode::Base58
+L<Encode::Base58>
 
 =head1 LICENSE
 
