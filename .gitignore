@@ -1,3 +1,4 @@
+MYMETA.*
 META.yml
 Makefile
 Makefile.old
@@ -10,4 +11,3 @@ pod.html
 *.tmp
 cover_db
 startup.sh
-
