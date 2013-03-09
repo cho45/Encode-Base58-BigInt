@@ -2,7 +2,7 @@ package Encode::Base58::BigInt;
 use strict;
 use warnings;
 
-our $VERSION = '0.02';
+our $VERSION = '0.03';
 use Math::BigInt;
 use Carp;
 
